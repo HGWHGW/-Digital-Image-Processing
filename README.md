@@ -15,4 +15,4 @@ main.ipynb - 主要代码，基于百度paddle paddle实验平台，我想普通
 
 main.py - 主要代码的py格式
 
-apples.zip - 处理的数据集
+5.jpg - 处理的图片
